@@ -210,10 +210,12 @@ both when Linux is used as a client and as a server.
   Raghavendra Talur + Poornima G, Soumya Koduri, Rajesh Joseph, Anoop C S
 
 * **Feature Page**:
-  ...
+  <http://review.gluster.org/#/c/13779>
 
 * **Tracker Bug and Patches**:
-  ...
+  <https://bugzilla.redhat.com/show_bug.cgi?id=1263231>
+  <https://review.gluster.org/#/q/topic:bug-1263231>
+  
 
 * **Maintainer**
   *(patch to additional [`MAINTAINERS`][MAINTAINERS] entry)*
